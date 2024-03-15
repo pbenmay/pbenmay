@@ -3,3 +3,5 @@ This is an example.
 This is a new line.
 
 Add another one.
+
+Added another line.
